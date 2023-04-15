@@ -1,6 +1,8 @@
-<p>
-    <img src="readme_res/intro.gif" alt="Анимированное изображение">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="readme_res/intro_dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="readme_res/intro_light.gif">
+  <img alt="Hi, I'm Andrii - junior java developer" src="readme_res/intro_light.gif">
+</picture>
 <p>
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&color=gray&logo=java&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&color=gray&logo=python&logoColor=white" />
