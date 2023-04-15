@@ -20,7 +20,7 @@ I have been programming since 2013. At the beginning of 2022, I decided to becom
 
 <h3 align="center">Frameworks</h3>
 <p align="center">
-    <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&color=gray&logo=spring&logoColor=green" />
+    <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&color=gray&logo=spring&logoColor=white" />
     <img alt="Hibernate" src="https://img.shields.io/static/v1?style=for-the-badge&color=gray&label=&message=hibernate&logo=hibernate&logoColor=white" />
     <img alt="Thymeleaf" src="https://img.shields.io/static/v1?style=for-the-badge&color=gray&label=&message=thymeleaf&logo=thymeleaf&logoColor=white" />
     <img alt="React" src="https://img.shields.io/static/v1?style=for-the-badge&color=gray&label=&message=react&logo=react&logoColor=white" />
