@@ -1,12 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="readme_res/intro_dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="readme_res/intro_light.gif">
-  <img alt="Hi, I'm Andrii - junior java developer" src="readme_res/intro_light.gif">
-</picture>
+# Hi, I'm Andrii, Java developer
 
-# Who am I?
-
-I have been programming since 2013. At the beginning of 2022, I decided to become a programmer. Today I'm Junior Java Developer. Difficult tasks, coding and learning new technologies are what I wake up for. I am also keen on Arduino, engineering, construction, energy saving and energy production. I concern about the environment and my dream is a zero-energy house.
+I have been programming since 2013. At the beginning of 2022, I decided to become a programmer. Today I'm Strong Junior Java Developer. Difficult tasks, coding and learning new technologies are what I wake up for. I am also keen on Arduino, engineering, construction, energy saving and energy production. I concern about the environment and my dream is a zero-energy house.
 
 # Stack
 
@@ -24,6 +18,7 @@ I have been programming since 2013. At the beginning of 2022, I decided to becom
     <img alt="Hibernate" src="https://img.shields.io/static/v1?style=for-the-badge&color=gray&label=&message=hibernate&logo=hibernate&logoColor=white" />
     <img alt="Thymeleaf" src="https://img.shields.io/static/v1?style=for-the-badge&color=gray&label=&message=thymeleaf&logo=thymeleaf&logoColor=white" />
     <img alt="React" src="https://img.shields.io/static/v1?style=for-the-badge&color=gray&label=&message=react&logo=react&logoColor=white" />
+    <img alt="Angular" src="https://img.shields.io/badge/angular-%23ED8B00.svg?style=for-the-badge&color=gray&logo=angular&logoColor=white" />
 </p>
 
 <h3 align="center">Databases</h3>
@@ -51,12 +46,6 @@ I have been programming since 2013. At the beginning of 2022, I decided to becom
 <p align="center">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&color=gray&logo=linux&logoColor=white" />
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&color=gray&logo=windows&logoColor=white" />
-</p>
-
-# Stats
-
-<p align="center">
-    <img alt="GitHub profile' stats" src="https://metrics.lecoq.io/EpileptikKid?template=classic&languages=1&languages.limit=12&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FWarsawhttps://metrics.lecoq.io/piotrmludzik?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FWarsaw&config.padding=0%25%2C%200%25" />
 </p>
 
 <p align="center">
